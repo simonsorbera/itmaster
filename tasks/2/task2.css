@@ -1,0 +1,53 @@
+img {
+  width: 66%;
+}
+
+#container {
+  width: 50%;
+  margin: 0 auto;
+  font-family: monospace;
+  text-align: center;
+}
+
+#container h1 {
+  font-size: 36px;
+}
+
+#container h2 {
+  font-size: 34px;
+}
+
+#menu {
+  list-style: none;
+  font-size: 22px;
+  margin: 50px 0;
+}
+
+#menu li a {
+  color: red;
+}
+
+#menu li a:hover {
+  color: darksalmon;
+}
+
+p {
+  font-size: 17px;
+  text-align: center;
+}
+
+#up {
+  color: green;
+}
+
+#up:hover {
+  color: aquamarine;
+}
+
+#footer {
+  margin-top: 50px;
+  font-family: monospace;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+}
